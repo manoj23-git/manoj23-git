@@ -1,15 +1,50 @@
-## Hi there 👋
+### Hi there, I'm **Manoj** 👋
 
+I'm a pre-final year **Electronics and Communication Engineering (ECE)** student **Vishnu Institute of Technology with a strong passion for embedded systems. I love bridging the gap between hardware and software to create smart, efficient solutions.
 
-**manoj23-git/manoj23-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### 🔧 **My Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* **Languages:** C, Python
+* **Hardware Description Language:** Verilog (Basics)
+* **Core Interests:** Embedded Systems, IoT, Digital Logic Design
+
+---
+
+#### 🌱 **What I'm Currently Learning**
+
+* Diving deeper into microcontroller programming (like STM32 or ESP32).
+* Exploring Real-Time Operating Systems (RTOS).
+* Building small projects to apply my knowledge of C and Verilog.
+
+---
+
+#### 📫 **How to reach me:**
+
+* **LinkedIn:** `### Hi there, I'm [Your Name] 👋
+
+I'm a pre-final year **Electronics and Communication Engineering (ECE)** student with a strong passion for embedded systems. I love bridging the gap between hardware and software to create smart, efficient solutions.
+
+---
+
+#### 🔧 **My Skills**
+
+* **Languages:** C, Python
+* **Hardware Description Language:** Verilog (Basics)
+* **Core Interests:** Embedded Systems, IoT, Digital Logic Design
+
+---
+
+#### 🌱 **What I'm Currently Learning**
+
+* Diving deeper into microcontroller programming (like STM32 or ESP32).
+* Exploring Real-Time Operating Systems (RTOS).
+* Building small projects to apply my knowledge of C and Verilog.
+
+---
+
+#### 📫 **How to reach me:**
+
+* **LinkedIn:** `www.linkedin.com/in/pippalla-manoj`
+* **Email:** `pippallamanoj@gmail.com`
